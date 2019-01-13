@@ -2,7 +2,7 @@
   "name": "mailsac",
   "version": "3.9.2",
   "private": true,
-  "main": "app.js",
+  "main": "rrshareweb",
   "scripts": {
     "start": "NODE_ENV=development DEBUG=mailsac* node app.js",
     "msg": "DEBUG=mailsac* node tests/msg-recd.js",
