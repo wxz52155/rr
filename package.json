@@ -3,9 +3,5 @@
   "version": "4.0.0",
   "description": "Web Application Framework and Admin GUI / Content Management System built on Express.js and Mongoose",
   "main": "rrshareweb",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/keystonejs/keystone.git"
-  },
-  
+ 
 }
